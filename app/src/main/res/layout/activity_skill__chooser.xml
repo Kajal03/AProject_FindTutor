@@ -26,12 +26,12 @@
 
         <Button
             android:onClick="go_to_profile"
-            android:layout_width="wrap_content"
-            android:layout_height="30dp"
-            android:layout_marginLeft="70dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
             android:layout_marginTop="7dp"
             android:textSize="16dp"
-            android:text="SKIP"
+            android:text="Profile"
             android:background="@drawable/curverbutton"
             android:textColor="#ffffff"/>
 
